@@ -1,0 +1,25 @@
+<section id="navbar">
+		<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-light shadow">
+		<div class="container">
+			<a class="navbar-brand" href="#">Naija Sports</a>
+				<button type="button" class="navbar-toggler" arial-expanded="false" arial-label="Toggle navigation" data-toggle="collapse" data-target="#navbarNav" arial-controls="navbarNav">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				
+			<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav">
+				<li class="nav-item active"><a class="nav-link" href="../index.php">Home</a></li>
+				<li class="nav-item"><a class="nav-link" href="latest.php">Latest</a></li>
+                <li class="nav-item"><a class="nav-link" href="politics.php">Politics</a></li>
+                <li class="nav-item"><a class="nav-link" href="education.php">Education</a></li>
+                <li class="nav-item"><a class="nav-link" href="sport.php">Sport</a></li>
+                <li class="nav-item"><a class="nav-link" href="flashback.php">Flashback</a></li>
+                <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
+			</ul>
+			<p class="nav navbar-text ml-auto text-primary">
+			<a href="#" class="navbar-link navbar-primary">Subscribe</a>
+            </p>
+		</div>
+	</div>
+</nav>
+    </section>
